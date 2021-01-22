@@ -43,7 +43,6 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     # Local Apps
-    "kanban.apps.KanbanConfig",
     "dashboard.apps.DashboardConfig"
 ]
 
